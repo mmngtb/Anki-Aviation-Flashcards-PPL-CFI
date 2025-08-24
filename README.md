@@ -1,4 +1,4 @@
-# Anki-Aviation-Flashcards-PPL-CFI
+# Description
 Flashcards for Anki users who are preparing for their pilot's licenses from Private to CFI
 # Notes
 Anki account and application required before importing cards.
