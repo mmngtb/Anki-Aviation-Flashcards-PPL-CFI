@@ -1,7 +1,7 @@
 # Description
 Flashcards for Anki users who are preparing for their pilot's licenses from Private to CFI
 
-Anki account and application required before importing cards. If you are new to Anki Flashcards, follow this [guide](https://docs.ankiweb.net/getting-started.html) to get started.
+Anki account and application required before importing cards. If you are new to Anki Flashcards, follow this [guide](https://docs.ankiweb.net/getting-started.html) to get started. 
 
 # Notes
 
