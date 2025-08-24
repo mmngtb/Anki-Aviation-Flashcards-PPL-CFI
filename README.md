@@ -35,4 +35,5 @@ Tags have hashtags so they are integratable with Obsidian note taking.
 </a>
 </p>
 
+Consider donating as this will get me going to enhance my cards!
 [![PayPal](https://img.shields.io/badge/PayPal-Support%20me-blue.svg?logo=paypal)](https://paypal.me/yourusername)
