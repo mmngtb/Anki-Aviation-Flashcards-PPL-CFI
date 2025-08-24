@@ -1,5 +1,8 @@
 # Description
 Flashcards for Anki users who are preparing for their pilot's licenses from Private to CFI
+
+If you are new to Anki Flashcards, follow this [guide](https://docs.ankiweb.net/getting-started.html) to get started.
+
 # Notes
 Anki account and application required before importing cards.
 
@@ -32,4 +35,4 @@ Tags have hashtags so they are integratable with Obsidian note taking.
 </a>
 </p>
 
-
+[![PayPal](https://img.shields.io/badge/PayPal-Support%20me-blue.svg?logo=paypal)](https://paypal.me/yourusername)
